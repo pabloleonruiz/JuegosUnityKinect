@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - leftUp
+  - rightUp
+  - leftDown
+  - rightDown
+  - left
+  - right
+  - Estrellas
+  - Estrellitas
+  - rightmDown
+  - rightmUp
+  - leftmDown
+  - leftmUp
+  - ShowOnPause
+  - leftMiddleUp
+  - rightMiddleDown
+  - leftMiddleDown
+  - rightMiddleUp
+  - Middle
+  - azul
+  - rojo
+  - verde
+  - borrar
+  - salir
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
